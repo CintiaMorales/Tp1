@@ -8,7 +8,7 @@ package remiseria;
 
 /**
  *
- * @author Tecnica7
+ * @author Tecnica7 y Alejandro
  */
 class Chofer {
 
