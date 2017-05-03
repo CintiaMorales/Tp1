@@ -12,7 +12,7 @@ package remiseria;
  */
 class Chofer {
 
-    private String licencia;
+    public String licencia;
     private String nombre;
     private int telefono;
     private Vehiculo vehiculo;
