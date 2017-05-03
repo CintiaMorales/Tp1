@@ -14,6 +14,7 @@ enum Color {
     Rojo,
     Negro,
     Azul,
-    Blanco
+    Blanco,
+Gris
     
 }
